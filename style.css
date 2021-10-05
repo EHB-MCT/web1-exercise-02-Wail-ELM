@@ -1,0 +1,30 @@
+h1 {
+    color: tomato;
+}
+
+.grijs {
+    color: gray;
+}
+
+.lichtgrijs {
+    color: gray;
+}
+
+p {
+    color: #909091;
+
+}
+
+a {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 1em;
+    display: block;
+    width: fit-content;
+}
+
+body {
+    background-color: rgb(233, 234, 234);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
